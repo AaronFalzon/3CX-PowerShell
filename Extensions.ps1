@@ -2,7 +2,9 @@
 #                                                              #
 #           3CX Extenstion Information Script                  # 
 #                                                              #
+#                                                              #
 # Note: 1. Storing Credentials in a script is not recomended!  #
+#            Consider using CredentialManager or clixml        #
 #       2. Running this script is at your own risk             #
 #                                                              #
 #                                                              #
