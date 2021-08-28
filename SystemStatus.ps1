@@ -7,7 +7,7 @@
 #       2. Running this script is at your own risk             #
 #                                                              #
 #                                                              #
-# Script By: Aaron Falzon - Chris Humphrey Office National     #
+# Script By: Aaron Falzon  &  Ben Grabau                       #
 ################################################################
 
 $3cxurl  = '' #Enter your url here including the trailing forward slash (eg. https://xyz.3cx.com.au/)
